@@ -1,0 +1,4 @@
+docker run -itd --name BankApp -e S
+RING_DATASOURCE_USERNAME="root" -e SPRING_DATASOURCE_URL="jdbc:mysql://mysql:33
+06/BankDB?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC" -e SPRIN
+G_DATASOURCE_PASSWORD="Test@123" --network=bankapp -p 8080:8080

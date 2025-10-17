@@ -1,0 +1,4 @@
+REPOSITORY                  TAG                 IMAGE ID       CREATED              SIZE
+bankapp-mini                latest              cacb079b699f   About a minute ago   378MB
+<none>                      <none>              dff9f341d2e5   About a minute ago   995MB
+bankapp                     latest              55435d72b99b   8 minutes ago        995MB
